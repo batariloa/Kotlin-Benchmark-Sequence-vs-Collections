@@ -1,5 +1,5 @@
 # Kotlin-Benchmark-Sequence-vs-Collections
-Benchmark of Kotlin sequence vs collections on chained transformations of a short list of objects.
+Benchmark of Kotlin sequence vs collections on chained transformations of a short list of objects. Tested for my own amusement.
 
 ## Benchmark results
 <pre>
